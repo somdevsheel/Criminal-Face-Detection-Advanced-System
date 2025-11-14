@@ -45,6 +45,9 @@ The dashboard displays real-time statistics:
    - Enable real-time face recognition from webcam
    - Continuous monitoring and detection
    - Instant alerts for database matches
+   - Check live stream: http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4
+   - Check rtsp stream: rtsp://rtspstream:95yafbaWWMQS5WR8eHVrl@zephyr.rtsp.stream/people
+   - Detect using web cam
 
 3. **Process Video**:
    - Upload video files for batch face recognition
