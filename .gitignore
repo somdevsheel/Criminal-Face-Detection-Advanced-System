@@ -21,7 +21,7 @@ wheels/
 *.egg
 
 # Virtual Environment
-venv311/
+venv/
 env/
 ENV/
 .env.example
